@@ -15,6 +15,9 @@ A curated list of awesome books, videos and courses about design.
 
 # Book
 
+* [Free book designed to nurture your creative well-being](http://www.creativebloq.com/design/free-ebooks-designers-7133700)
+* [](http://design.tutsplus.com/ebooks)
+
 # Video
 
 # Course
