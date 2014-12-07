@@ -30,5 +30,5 @@ A curated list of awesome books, videos and courses about design.
 
 # Fonts
 
-* [Fonts](http://designfiles.net/blog/free-fonts-for-commercial-use/)
+* [5 Places to Find Free Fonts (for Commercial Use)](http://designfiles.net/blog/free-fonts-for-commercial-use/)
 
