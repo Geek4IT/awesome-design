@@ -24,6 +24,7 @@ A curated list of awesome books, videos and courses about design.
 # Course
 
 # Artical
+* [Design Resources: Things that helped me get started with design and that help me keep going now.](https://medium.com/@hlnvhlms/design-resources-d6942068448a)
 
 # Utility
 
