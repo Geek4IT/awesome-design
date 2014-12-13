@@ -7,6 +7,7 @@ A curated list of awesome books, videos and courses about design.
 - [Artical](#artical)
 - [Utility](#utility)
 - [Fonts](#fonts)
+- [Resources] (#resources)
 
 # Website
 * [Dribbble](http://dribbble.com/)
@@ -33,6 +34,8 @@ A curated list of awesome books, videos and courses about design.
 * [How to Find Stock Photos That Don’t Suck](http://designrope.com/design/find-stock-photos-dont-suck/)
 
 # Fonts
-
 * [5 Places to Find Free Fonts (for Commercial Use)](http://designfiles.net/blog/free-fonts-for-commercial-use/)
+
+# Resources
+* [CAREFULLY CRAFTED UI DESIGN ASSETS](https://ui8.net/)
 
